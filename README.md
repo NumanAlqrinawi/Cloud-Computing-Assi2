@@ -12,3 +12,5 @@ This website explains the concept of CI/CD and shows a simple GitHub Actions pip
 
 ## Deployment
 The website is automatically deployed using GitHub Actions whenever changes are pushed to the main branch.
+## Link
+https://numanalqrinawi.github.io/Cloud-Computing-Assi2
